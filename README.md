@@ -28,25 +28,43 @@ I plan to populate this page with personal projects that may interest those look
 This section contains detailed project information on a number of personal analyses I have performed. More projects will be added soon.
 
 ### Analyzing Bike Sales Data
-**Code:** 
+
 **Goal:** Clean and analyze data to create an interactable dashboard that displays information on important business KPIs such as profit and revenue over time.
+
+**Code:** 
+
 **Description:** This project uses publicly available 2021-2022 financial data from a bike shop to analyze business earnings from riders such as cost, earnings, revenue, and profit.
+
 **Skills:** Data Analysis, Data Cleaning, Data Visualization, Database Management.
+
 **Tools:** SQL Server, Excel, Power BI
 
+
 ### Hotel Revenue Analysis
-**Code:** 
+
 **Goal:** Clean and analyze data to determine financial growth and trends in a business dataset.
+
+**Code:** 
+
 **Description:** This project uses publicly available 2018-2020 reservation data from a hotel business to analyze business earnings such as revenue and profit from variety of consumer types.
+
 **Skills:** Data Analysis, Data Cleaning, Data Visualization, Database Management.
+
 **Tools:** SQL Server, Excel, Power BI
+
+
 
 
 ### Baseball Performance vs. Attendance (First Project)
-**Code:** 
+
 **Goal:** Clean and analyze data to determine suitable teams for an advertisement firm, determine which if any key performance indicators lead to an increase in attendance for advertising purposes.
+
+**Code:** 
+
 **Description:** This project uses publicly available 2010-2015 MLB baseball data including information on players, parks, teams, etc., to analyze attendance based on a variety of metrics.
+
 **Skills:** Data Analysis, Data Cleaning, Data Visualization.
+
 **Tools:** BigQuery, Excel, RStudio, Tidyverse, Tableau
 
 
