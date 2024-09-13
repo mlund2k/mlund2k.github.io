@@ -10,19 +10,19 @@ Feel free to visit my [resume](https://github.com/mlund2k/mlund2k.github.io/blob
 I plan to populate this page with personal projects that may interest those looking to work with me or assess my skills, as well as for me to monitor my own progress.
 
 ## Table of Contents
-- [About Me]()
-- [Portfolio Projects]()
+- [About Me](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#about-me)
+- [Portfolio Projects](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#portfolio-projects)
   - SQL
-    - [Analyzing Bike Sales Data]()
-    - [Hotel Revenue Analysis]()
+    - [Analyzing Bike Sales Data](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#analyzing-bike-sales-data)
+    - [Hotel Revenue Analysis](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#hotel-revenue-analysis)
   - R
-    - [Baseball Performance vs. Attendance]()
-  - [Tableau]()
-  - [Power BI]()
-  - [Excel]()
-- [Education]()
-- [Certificates]()
-- [Contact]()
+    - [Baseball Performance vs. Attendance](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#baseball-performance-vs-attendance-first-project)
+  - Tableau
+  - Power BI
+  - Excel
+- [Education](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#education)
+- [Certificates](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#certificates)
+- [Contact](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#contact)
 
 ## Portfolio Projects
 This section contains detailed project information on a number of personal analyses I have performed. More projects will be added soon.
