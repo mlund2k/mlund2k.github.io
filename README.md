@@ -1,7 +1,7 @@
 # Matt Lund - Data Analyst Portfolio
 
 ## About Me
-Hey there, I'm Matt. I currently hold a B.S. in Applied Physics with a computational specialization. Throughout my academics, I have built a strong quantitative, analytical, problem-solving skillset that has led me to pursue work in the field of data science. Working with historical data to uncover data-driven insights and predict outcomes excites me as it can be powerful when applied to just about any problem in everyday life.
+Hey there, I'm Matt. I currently hold a B.S. in Applied Physics with a computational specialization. Throughout my academics, I have built a strong quantitative, analytical, problem-solving skillset that has led me to pursue a career in the field of data science. Working with historical data to uncover data-driven insights and predict outcomes excites me as it can be powerful when applied to just about any problem in everyday life.
 
 In my free time outside of academics, I have worked to expand my skillset and experience all that data science has to offer. I have also gained internship experience cleaning, validating, and analyzing different formats of data, as well as academic experience constructing data structures, coding, and visualizing data, which I believe will serve as the foundations of my career in data analytics.
 
