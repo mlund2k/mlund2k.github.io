@@ -80,7 +80,7 @@ Associate's of Science in Physics
 2018 - 2021
 
 ## Certificates
-[Google Professional Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/L3QO2FLARU86?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=prof&utm_source=link) Aug 2024 (Coursera - Google)
+[Google Professional Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/L3QO2FLARU86?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=prof&utm_source=link) (Aug 2024) (Coursera - Google)
 
 ## Contact
 - Email: mlund2k@gmail.com
