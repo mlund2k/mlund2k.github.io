@@ -31,7 +31,7 @@ This section contains detailed project information on a number of personal analy
 
 **Goal:** Clean and analyze data to create an interactable dashboard that displays information on important business KPIs such as profit and revenue over time.
 
-**Code:** 
+**Code:** [Analyzing Bike Sales Data](https://github.com/mlund2k/Analyzing-Bike-Sales-Data)
 
 **Description:** This project uses publicly available 2021-2022 financial data from a bike shop to analyze business earnings from riders such as cost, earnings, revenue, and profit.
 
