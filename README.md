@@ -59,7 +59,7 @@ This section contains detailed project information on a number of personal analy
 
 **Goal:** Clean and analyze data to determine suitable teams for an advertisement firm, determine which if any key performance indicators lead to an increase in attendance for advertising purposes.
 
-**Code:** 
+**Code:** [Baseball Performance vs. Attendance](https://github.com/mlund2k/Project-1-Baseball-Performance-vs.-Attendance)
 
 **Description:** This project uses publicly available 2010-2015 MLB baseball data including information on players, parks, teams, etc., to analyze attendance based on a variety of metrics.
 
