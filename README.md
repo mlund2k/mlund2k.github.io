@@ -44,7 +44,7 @@ This section contains detailed project information on a number of personal analy
 
 **Goal:** Clean and analyze data to determine financial growth and trends in a business dataset.
 
-**Code:** 
+**Code:** [Hotel Revenue Analysis](https://github.com/mlund2k/Hotel-Revenue-Analysis)
 
 **Description:** This project uses publicly available 2018-2020 reservation data from a hotel business to analyze business earnings such as revenue and profit from variety of consumer types.
 
