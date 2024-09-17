@@ -38,7 +38,7 @@ This section contains detailed project information on a number of personal analy
 
 **Skills:** Data Analysis, Data Cleaning, Data Visualization, Database Management.
 
-**Tools:** SQL Server, Excel, Power BI
+**Tools:** SQL Server, Excel, Power BI  
 
 
 ### Hotel Revenue Analysis
@@ -51,7 +51,7 @@ This section contains detailed project information on a number of personal analy
 
 **Skills:** Data Analysis, Data Cleaning, Data Visualization, Database Management.
 
-**Tools:** SQL Server, Excel, Power BI
+**Tools:** SQL Server, Excel, Power BI  
 
 
 ### Video Game Sales
@@ -64,8 +64,8 @@ This section contains detailed project information on a number of personal analy
 
 **Skills:** Data Analysis, Data Cleaning, Data Visualization, Database Management.
 
-**Tools:** MySQL, Excel, Power BI
-
+**Tools:** MySQL, Excel, Power BI  
+  
 
 
 ### Baseball Performance vs. Attendance (First Project)
