@@ -15,6 +15,7 @@ I plan to populate this page with personal projects that may interest those look
   - SQL
     - [Analyzing Bike Sales Data](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#analyzing-bike-sales-data)
     - [Hotel Revenue Analysis](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#hotel-revenue-analysis)
+    - [Video Game Sales](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#video-game-sales)
   - R
     - [Baseball Performance vs. Attendance](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#baseball-performance-vs-attendance-first-project)
   - Tableau
@@ -52,6 +53,18 @@ This section contains detailed project information on a number of personal analy
 
 **Tools:** SQL Server, Excel, Power BI
 
+
+### Video Game Sales
+
+**Goal:** Clean and analyze data to perform an exploratory data analysis on top-selling video game titles.
+
+**Code:** [Video Game Sales](https://github.com/mlund2k/Video-Game-Sales)
+
+**Description:** This project uses publicly available 1977-2020 video game sales data from a variety of video game genres, publishers, and consoles to determine impactful trends in consumer performance.
+
+**Skills:** Data Analysis, Data Cleaning, Data Visualization, Database Management.
+
+**Tools:** MySQL, Excel, Power BI
 
 
 
