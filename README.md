@@ -18,7 +18,7 @@ I plan to populate this page with personal projects that may interest those look
     - [Video Game Sales](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#video-game-sales)
   - R
     - [Baseball Performance vs. Attendance](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#baseball-performance-vs-attendance-first-project)
-  - Tableau
+  - [Tableau]()
   - Power BI
   - Excel
 - [Education](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#education)
@@ -81,6 +81,11 @@ This section contains detailed project information on a number of personal analy
 **Tools:** BigQuery, Excel, RStudio, Tidyverse, Tableau
 
 
+## Tableau
+
+Check out my **[Tableau portfolio](https://public.tableau.com/app/profile/matt.matt4307/vizzes)!**
+
+For more information and project files please check [here](https://github.com/mlund2k/Tableau-Projects/blob/main/README.md).
 
 
 ## Education
