@@ -18,8 +18,8 @@ I plan to populate this page with personal projects that may interest those look
     - [Video Game Sales](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#video-game-sales)
   - R
     - [Baseball Performance vs. Attendance](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#baseball-performance-vs-attendance-first-project)
-  - [Tableau]()
-  - Power BI
+  - [Tableau](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#tableau)
+  - [Power BI](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#power-bi)
   - Excel
 - [Education](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#education)
 - [Certificates](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#certificates)
@@ -87,6 +87,27 @@ Check out my **[Tableau portfolio](https://public.tableau.com/app/profile/matt.m
 
 For more information and project files please check [here](https://github.com/mlund2k/Tableau-Projects/blob/main/README.md).
 
+
+## Power BI
+
+Check out a few projects of mine that used Power BI to create informative and interactable dashboards:
+- [Analyzing Bike Sales Data](https://github.com/mlund2k/Analyzing-Bike-Sales-Data)
+- [Hotel Revenue Analysis](https://github.com/mlund2k/Hotel-Revenue-Analysis)
+- [Video Game Sales](https://github.com/mlund2k/Video-Game-Sales)
+
+Additionally, here are a couple of projects that focused on creating a Power BI dashboard visual:
+
+### Prime Video Analysis
+
+[Prime Analysis](https://github.com/mlund2k/Prime-Analysis)
+
+This Power BI exploratory data analysis project explored the demographics and statistics of various Prime Video media based on metrics such as ratings, genre, country, and release year.
+
+### Customer Analysis
+
+[Customer Marketing Analysis](https://github.com/mlund2k/Customer-Analysis)
+
+This Power BI exploratory data analysis project explored the demographics and statistics of various Customer demographics associated with a ficticious company. Highlighted metrics include income, education level, marital status, customer satisfaction, products, and purchases.
 
 ## Education
 University of California, Davis
