@@ -18,6 +18,7 @@ I plan to populate this page with personal projects that may interest those look
     - [Video Game Sales](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#video-game-sales)
   - R
     - [Baseball Performance vs. Attendance](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#baseball-performance-vs-attendance-first-project)
+    - [Covid-19 Analysis](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#covid-19-analysis-report)
   - [Tableau](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#tableau)
   - [Power BI](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#power-bi)
   - Excel
@@ -79,6 +80,21 @@ This section contains detailed project information on a number of personal analy
 **Skills:** Data Analysis, Data Cleaning, Data Visualization.
 
 **Tools:** BigQuery, Excel, RStudio, Tidyverse, Tableau
+
+
+
+### Covid-19 Analysis Report
+
+**Goal:** Clean, analyze, and visualize Covid-19 data to determine patterns and relationships that may drive increased exposure.
+
+**Code:** [Covid-19 Analysis Report](https://github.com/mlund2k/Covid-19-R-Analysis)
+
+**Description:** This project uses publicly available January to February 2020 Covid-19 case data including anonymous information on cases, country, age, etc., to analyze increased spread among a variety of metrics.
+
+**Skills:** Data Analysis, Data Cleaning, Data Visualization, Scripting.
+
+**Tools:** Excel, RStudio, Tidyverse
+
 
 
 ## Tableau
