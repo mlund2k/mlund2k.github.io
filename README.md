@@ -21,7 +21,7 @@ I plan to populate this page with personal projects that may interest those look
     - [Covid-19 Analysis](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#covid-19-analysis-report)
   - [Tableau](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#tableau)
   - [Power BI](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#power-bi)
-  - Excel
+  - [Excel](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#excel)
 - [Education](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#education)
 - [Certificates](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#certificates)
 - [Contact](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#contact)
