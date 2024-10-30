@@ -125,6 +125,19 @@ This Power BI exploratory data analysis project explored the demographics and st
 
 This Power BI exploratory data analysis project explored the demographics and statistics of various Customer demographics associated with a ficticious company. Highlighted metrics include income, education level, marital status, customer satisfaction, products, and purchases.
 
+
+
+## Excel
+
+While Excel is an important factor in a majority of my data analysis projects, I have showcased a few of my more Excel-focused analysis projects below.
+
+
+Check out my Excel projects **[here](https://github.com/mlund2k/Excel-Projects)!**
+
+
+For more information and project files please check [here](https://github.com/mlund2k/Excel-Projects/blob/main/README.md).
+
+
 ## Education
 University of California, Davis
 Bachelor's of Science in Applied Physics (Computational)
