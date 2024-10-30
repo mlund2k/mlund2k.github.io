@@ -28,6 +28,8 @@ I plan to populate this page with personal projects that may interest those look
 
 ## Portfolio Projects
 This section contains detailed project information on a number of personal analyses I have performed. More projects will be added soon.
+![image](https://github.com/user-attachments/assets/fd119eab-0392-47e4-93ac-f9b81d80e81c)
+
 
 ### Analyzing Bike Sales Data
 
@@ -99,12 +101,16 @@ This section contains detailed project information on a number of personal analy
 
 ## Tableau
 
+![image](https://github.com/user-attachments/assets/f421e8d7-1be4-4438-af06-5c757d7175fa)
+
 Check out my **[Tableau portfolio](https://public.tableau.com/app/profile/matt.matt4307/vizzes)!**
 
 For more information and project files please check [here](https://github.com/mlund2k/Tableau-Projects/blob/main/README.md).
 
 
 ## Power BI
+
+![image](https://github.com/user-attachments/assets/87bcb25a-83fd-4be1-854f-7ca33518c2d9)
 
 Check out a few projects of mine that used Power BI to create informative and interactable dashboards:
 - [Analyzing Bike Sales Data](https://github.com/mlund2k/Analyzing-Bike-Sales-Data)
@@ -128,6 +134,8 @@ This Power BI exploratory data analysis project explored the demographics and st
 
 
 ## Excel
+
+![image](https://github.com/user-attachments/assets/959bb38e-df93-4675-9fcb-6232fe942baf)
 
 While Excel is an important factor in a majority of my data analysis projects, I have showcased a few of my more Excel-focused analysis projects below.
 
