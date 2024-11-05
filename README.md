@@ -9,6 +9,9 @@ Feel free to visit my [resume](https://github.com/mlund2k/mlund2k.github.io/blob
 
 I plan to populate this page with personal projects that may interest those looking to work with me or assess my skills, as well as for me to monitor my own progress.
 
+&nbsp;
+&nbsp;
+
 ## Table of Contents
 - [About Me](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#about-me)
 - [Portfolio Projects](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#portfolio-projects)
@@ -27,6 +30,9 @@ I plan to populate this page with personal projects that may interest those look
 - [Education](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#education)
 - [Certificates](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#certificates)
 - [Contact](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#contact)
+
+&nbsp;
+&nbsp;
 
 ## Portfolio Projects
 This section contains detailed project information on a number of personal analyses I have performed. More projects will be added soon.
@@ -191,8 +197,14 @@ Santa Rosa Junior College
 Associate's of Science in Physics
 2018 - 2021
 
+&nbsp;
+&nbsp;
+
 ## Certificates
 [Google Professional Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/L3QO2FLARU86?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=prof&utm_source=link) (Aug 2024) (Coursera - Google)
+
+&nbsp;
+&nbsp;
 
 ## Contact
 - Email: mlund2k@gmail.com
