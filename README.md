@@ -32,6 +32,9 @@ I plan to populate this page with personal projects that may interest those look
 This section contains detailed project information on a number of personal analyses I have performed. More projects will be added soon.
 ![image](https://github.com/user-attachments/assets/fd119eab-0392-47e4-93ac-f9b81d80e81c)
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Analyzing Bike Sales Data
 
