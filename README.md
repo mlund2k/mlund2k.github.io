@@ -16,6 +16,8 @@ I plan to populate this page with personal projects that may interest those look
     - [Analyzing Bike Sales Data](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#analyzing-bike-sales-data)
     - [Hotel Revenue Analysis](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#hotel-revenue-analysis)
     - [Video Game Sales](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#video-game-sales)
+  - Python
+    - [Bike Share Sales Analysis](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#bike-share-sales-analysis)
   - R
     - [Baseball Performance vs. Attendance](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#baseball-performance-vs-attendance-first-project)
     - [Covid-19 Analysis](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#covid-19-analysis-report)
@@ -69,6 +71,20 @@ This section contains detailed project information on a number of personal analy
 
 **Tools:** MySQL, Excel, Power BI  
   
+
+
+### Bike Share Sales Analysis
+
+**Goal:** Import, clean, and analyze data to determine driving factors and best conditions for increasing bike sales using public data, providing supporting visuals to display potential correlations and trends.
+
+**Code:** [Bike Share Analysis](https://github.com/mlund2k/Bike-Share-Analysis/)
+
+**Description:** This project uses publicly available 2015-2017 London bike share data including information on weather, temperature, and sales information to analyze bike purchases based on a variety of influencers.
+
+**Skills:** Data Cleaning, Data Analysis, Data Visualization.
+
+**Tools:** Kaggle Notebook, Python (using Pandas, MatPlotLib, and Seaborn libraries)
+
 
 
 ### Baseball Performance vs. Attendance (First Project)
