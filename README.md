@@ -34,7 +34,6 @@ This section contains detailed project information on a number of personal analy
 
 &nbsp;
 &nbsp;
-&nbsp;
 
 ### Analyzing Bike Sales Data
 
@@ -48,6 +47,8 @@ This section contains detailed project information on a number of personal analy
 
 **Tools:** SQL Server, Excel, Power BI  
 
+&nbsp;
+&nbsp;
 
 ### Hotel Revenue Analysis
 
@@ -61,6 +62,8 @@ This section contains detailed project information on a number of personal analy
 
 **Tools:** SQL Server, Excel, Power BI  
 
+&nbsp;
+&nbsp;
 
 ### Video Game Sales
 
@@ -73,8 +76,9 @@ This section contains detailed project information on a number of personal analy
 **Skills:** Data Analysis, Data Cleaning, Data Visualization, Database Management.
 
 **Tools:** MySQL, Excel, Power BI  
-  
 
+&nbsp;
+&nbsp;
 
 ### Bike Share Sales Analysis
 
@@ -88,7 +92,8 @@ This section contains detailed project information on a number of personal analy
 
 **Tools:** Kaggle Notebook, Python (using Pandas, MatPlotLib, and Seaborn libraries)
 
-
+&nbsp;
+&nbsp;
 
 ### Baseball Performance vs. Attendance (First Project)
 
@@ -102,7 +107,8 @@ This section contains detailed project information on a number of personal analy
 
 **Tools:** BigQuery, Excel, RStudio, Tidyverse, Tableau
 
-
+&nbsp;
+&nbsp;
 
 ### Covid-19 Analysis Report
 
@@ -116,7 +122,8 @@ This section contains detailed project information on a number of personal analy
 
 **Tools:** Excel, RStudio, Tidyverse
 
-
+&nbsp;
+&nbsp;
 
 ## Tableau
 
@@ -126,6 +133,8 @@ Check out my **[Tableau portfolio](https://public.tableau.com/app/profile/matt.m
 
 For more information and project files please check [here](https://github.com/mlund2k/Tableau-Projects/blob/main/README.md).
 
+&nbsp;
+&nbsp;
 
 ## Power BI
 
@@ -138,11 +147,16 @@ Check out a few projects of mine that used Power BI to create informative and in
 
 Additionally, here are a couple of projects that focused on creating a Power BI dashboard visual:
 
+&nbsp;
+
 ### Prime Video Analysis
 
 [Prime Analysis](https://github.com/mlund2k/Prime-Analysis)
 
 This Power BI exploratory data analysis project explored the demographics and statistics of various Prime Video media based on metrics such as ratings, genre, country, and release year.
+
+&nbsp;
+&nbsp;
 
 ### Customer Analysis
 
@@ -150,7 +164,8 @@ This Power BI exploratory data analysis project explored the demographics and st
 
 This Power BI exploratory data analysis project explored the demographics and statistics of various Customer demographics associated with a ficticious company. Highlighted metrics include income, education level, marital status, customer satisfaction, products, and purchases.
 
-
+&nbsp;
+&nbsp;
 
 ## Excel
 
@@ -164,6 +179,8 @@ Check out my Excel projects **[here](https://github.com/mlund2k/Excel-Projects)!
 
 For more information and project files please check [here](https://github.com/mlund2k/Excel-Projects/blob/main/README.md).
 
+&nbsp;
+&nbsp;
 
 ## Education
 University of California, Davis
