@@ -19,8 +19,7 @@ I plan to populate this page with personal projects that may interest those look
     - [Analyzing Bike Sales Data](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#analyzing-bike-sales-data)
     - [Hotel Revenue Analysis](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#hotel-revenue-analysis)
     - [Video Game Sales](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#video-game-sales)
-  - Python
-    - [Bike Share Sales Analysis](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#bike-share-sales-analysis)
+  - [Python](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#python)
   - R
     - [Baseball Performance vs. Attendance](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#baseball-performance-vs-attendance-first-project)
     - [Covid-19 Analysis](https://github.com/mlund2k/mlund2k.github.io?tab=readme-ov-file#covid-19-analysis-report)
@@ -86,21 +85,6 @@ This section contains detailed project information on a number of personal analy
 &nbsp;
 &nbsp;
 
-### Bike Share Sales Analysis
-
-**Goal:** Import, clean, and analyze data to determine driving factors and best conditions for increasing bike sales using public data, providing supporting visuals to display potential correlations and trends.
-
-**Code:** [Bike Share Analysis](https://github.com/mlund2k/Bike-Share-Analysis/)
-
-**Description:** This project uses publicly available 2015-2017 London bike share data including information on weather, temperature, and sales information to analyze bike purchases based on a variety of influencers.
-
-**Skills:** Data Cleaning, Data Analysis, Data Visualization.
-
-**Tools:** Kaggle Notebook, Python (using Pandas, MatPlotLib, and Seaborn libraries)
-
-&nbsp;
-&nbsp;
-
 ### Baseball Performance vs. Attendance (First Project)
 
 **Goal:** Clean and analyze data to determine suitable teams for an advertisement firm, determine which if any key performance indicators lead to an increase in attendance for advertising purposes.
@@ -127,6 +111,17 @@ This section contains detailed project information on a number of personal analy
 **Skills:** Data Analysis, Data Cleaning, Data Visualization, Scripting.
 
 **Tools:** Excel, RStudio, Tidyverse
+
+&nbsp;
+&nbsp;
+
+## Python
+
+![image](https://github.com/user-attachments/assets/08d784e5-8881-4009-9840-705416b1e4ce)
+
+Check out my **[Kaggle Projects](https://www.kaggle.com/mattlund2k/code)!**
+
+For more information and project files please check [here](https://github.com/mlund2k/Python-Data-Analysis/blob/main/README.md).
 
 &nbsp;
 &nbsp;
